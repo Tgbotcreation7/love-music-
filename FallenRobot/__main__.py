@@ -482,24 +482,25 @@ Available Commands = play , vplay , cplay
 ForcePlay Commands = playforce , vplayforce , cplayforce
 
 c stands for channel play.
-
 v stands for video play.
-
 force stands for force play.
 
-/play or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/play or /vplay or /cplay  - ʙᴏᴛ ᴡɪʟʟ sᴛᴀʀᴛ ᴘʟᴀʏɪɴɢ ʏᴏᴜʀ ɢɪᴠᴇɴ ǫᴜᴇʀʏ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴏʀ sᴛʀᴇᴀᴍ ʟɪᴠᴇ ʟɪɴᴋs ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs.
 
-/playforce or /vplayforce or /cplayforce -  Force Play stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
+/playforce or /vplayforce or /cplayforce - ғᴏʀᴄᴇ ᴘʟᴀʏ sᴛᴏᴘs ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴘʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴀɴᴅ sᴛᴀʀᴛs ᴘʟᴀʏɪɴɢ ᴛʜᴇ sᴇᴀʀᴄʜᴇᴅ ᴛʀᴀᴄᴋ ɪɴsᴛᴀɴᴛʟʏ ᴡɪᴛʜᴏᴜᴛ ᴅɪsᴛᴜʀʙɪɴɢ/ᴄʟᴇᴀʀɪɴɢ ǫᴜᴇᴜᴇ.
 
-/channelplay [Chat username or id] or [Disable] - Connect channel to a group and stream music on channel's voice chat from your group.
+/channelplay [Chat username or id] or [Disable] - ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴏɴ ᴄʜᴀɴɴᴇʟ's ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+
 
 ✅Bot's Server Playlists:
 
-/playlist  - Check Your Saved Playlist On Servers.
+/playlist  - ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴘʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
 
-/deleteplaylist - Delete any saved music in your playlist
+/deleteplaylist - ᴅᴇʟᴇᴛᴇ ᴀɴʏ sᴀᴠᴇᴅ ᴍᴜsɪᴄ ɪɴ ʏᴏᴜʀ ᴘʟᴀʏʟɪsᴛ.
 
-/play  - Start playing Your Saved Playlist from Servers.
+/play  - sᴛᴀʀᴛ ᴘʟᴀʏɪɴɢ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴘʟᴀʏʟɪsᴛ ғʀᴏᴍ sᴇʀᴠᴇʀs.
+
+
 
 
 *ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/AnonymousR1025/FallenRobot)
