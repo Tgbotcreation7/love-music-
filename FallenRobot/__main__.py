@@ -475,7 +475,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
 🎧 ᴍᴜsɪᴄ ᴋᴇ sᴇᴄᴛɪᴏɴ ᴍᴇ ᴀᴀᴘᴋᴀ sᴡᴀᴀɢᴀᴛ ʜᴀɪ.*
 
-✅Play Commands:
+✅ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:
 
 Available Commands = play , vplay , cplay
 
@@ -492,7 +492,7 @@ force stands for force play.
 /channelplay [Chat username or id] or [Disable] - ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴏɴ ᴄʜᴀɴɴᴇʟ's ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
 
-✅Bot's Server Playlists:
+✅ʙᴏᴛ's sᴇʀᴠᴇʀ ᴘʟᴀʏʟɪsᴛs:
 
 /playlist  - ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴘʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
 
