@@ -827,18 +827,18 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/b360c49a906b06e459ec0.mp4",
+                animation="https://telegra.ph/file/db5b65bf75385ff2e4017.jpg",
                 caption=f"""
-ㅤㅤ🥀 {BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ...
+ㅤㅤ🥀 {BOT_NAME} ᴢɪɴᴅᴀ ʜᴜ ʏᴀᴀʟ...
 
 ━━━━━━━━━━━━━
-ㅤ๏ **ᴘʏᴛʜᴏɴ :** `{y()}`
-ㅤ๏ **ʟɪʙʀᴀʀʏ :** `{telever}`
-ㅤ๏ **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
-ㅤ๏ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
+ㅤ✯ **ᴘʏᴛʜᴏɴ :** `{y()}`
+ㅤ✯ **ʟɪʙʀᴀʀʏ :** `{telever}`
+ㅤ✯ **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
+ㅤ✯ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 ━━━━━━━━━━━━━
 
-ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://t.me/{OWNER_USERNAME})""",
+ᴍᴀᴅᴇ ʙʏ [Sᴜᴋᴜɴ](https://t.me/Bhumi_ha_r)""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
