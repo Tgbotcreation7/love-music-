@@ -426,26 +426,26 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "fallen_support":
         query.message.edit_text(
-            text="*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴩ ᴀɴᴅ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍᴇ.*"
-            f"\n\nɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ {BOT_NAME} ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ {BOT_NAME}, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ.",
+            text="*✯ Sᴜᴘᴘᴏʀᴛs ᴋᴇ ʟɪʏᴇ ʏᴀʜᴀ ᴀᴀʏᴇ ᴜsᴋᴇ ʟɪʏᴇ ᴛʜᴀɴᴋᴜᴜ.*"
+            f"\n\nᴀɢᴀʀ ᴋᴏɪ ᴘʀᴏʙʟᴇᴍ ʜᴏ {BOT_NAME} ᴏʀ ᴋᴏɪ ғᴇᴇᴅʙᴀᴄᴋ ᴅᴇɴɴᴀ ʜᴏ {BOT_NAME}, ᴊᴀʟᴅɪ ᴄʜᴇ sᴜᴘᴘᴏʀᴛ ᴘᴇ ᴄʟɪᴄᴋ ᴋᴀʀᴋᴇ ᴀᴀᴏ ..",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="😘 sᴜᴩᴩᴏʀᴛ 😘", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="🥳 ᴜᴩᴅᴀᴛᴇs 🥳", url=f"https://t.me/sukunupdates"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="🥀 ᴍᴀɴᴀɢᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
-                            callback_data="https://github.com/AnonymousR1025",
+                            text="❤️ ɢɪᴛʜᴜʙ ❤️",
+                            callback_data="https://github.com/sukunbots",
                         ),
                     ],
                     [
