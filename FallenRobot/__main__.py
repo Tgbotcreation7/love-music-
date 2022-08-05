@@ -403,18 +403,18 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="fallen_support"
+                            text="😘 sᴜᴩᴩᴏʀᴛ 😘", callback_data="fallen_support"
                         ),
                         InlineKeyboardButton(
-                            text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
+                            text="😍ᴍᴀɴᴀɢᴍᴇɴᴛ ᴄᴍɴᴅs😍", callback_data="help_back"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="🥀 ᴍᴀɴᴀɢᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="sᴏᴜʀᴄᴇ",
+                            text="🎧 ᴍᴜsɪᴄ ᴄᴍɴᴅs 🎧",
                             callback_data="source_",
                         ),
                     ],
