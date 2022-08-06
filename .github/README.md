@@ -8,7 +8,7 @@
   <img src="https://github.com/sukunbots/sukunrobotmusic/blob/master/sukunrobotmusic/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [「 sᴜᴋᴜɴ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」](https://t.me/sukunmusicrobot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://telegra.ph/file/db5b65bf75385ff2e4017.jpg">
 </p>
 
 <p align="center">
