@@ -58,11 +58,11 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                "{} is here!",
-                "{} is back!",
-                "{} is now in the chat!",
-                "{} is awake!",
-                "{} is back online!",
+                "{} aa gye yaal!",
+                "{} aa gye mele dost!",
+                "{} aa gya chal chatting karlte h !",
+                "{} ooye kaiche ho!",
+                "{} sun yaal kaise ho!",
                 "{} is finally here!",
                 "Welcome back! {}",
                 "Where is {}?\nIn the chat!",
@@ -140,9 +140,11 @@ def check_afk(update, context, user_id, fst_name, userc_id):
 
 __help__ = """
 *Away from group*
- ❍ /afk <reason>*:* mark yourself as AFK(away from keyboard).
- ❍ brb <reason>*:* same as the afk command - but not a command.
+ ✯ /afk <reason>*:* mark yourself as AFK(away from keyboard).
+ ✯ brb <reason>*:* same as the afk command - but not a command.
 When marked as AFK, any mentions will be replied to with a message to say you're not available!
+
+ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
 """
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)
