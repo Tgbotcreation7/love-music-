@@ -45,10 +45,10 @@ def totranslate(update: Update, context: CallbackContext) -> None:
 
 
 __help__ = """
- ❍ /tr or /tl (language code) as reply to a long message
+ ✯ /tr or /tl (language code) as reply to a long message
 *Example:* 
- ❍ /tr en*:* translates something to english
- ❍ /tr hi-en*:* translates hindi to english
+ ✯ /tr en*:* translates something to english
+ ✯ /tr hi-en*:* translates hindi to english
 
 *Language Codes*
 `af,am,ar,az,be,bg,bn,bs,ca,ceb,co,cs,cy,da,de,el,en,eo,es,
@@ -57,6 +57,8 @@ id,ig,is,it,iw,ja,jw,ka,kk,km,kn,ko,ku,ky,la,lb,lo,lt,lv,mg,mi,mk,
 ml,mn,mr,ms,mt,my,ne,nl,no,ny,pa,pl,ps,pt,ro,ru,sd,si,sk,sl,
 sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
 vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
+
+ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
 """
 __mod_name__ = "Tʀᴀɴsʟᴀᴛᴏʀ"
 
