@@ -81,7 +81,7 @@ async def msg(event):
 
     wiki = a.get("wiki")
 
-    caption = f"""<b><u>Information Gathered Successfully</b></u>
+    caption = f"""<b><u>Information Gathered Successfully by Team sukun</b></u>
 
 <b>Country Name :</b> {name}
 <b>Alternative Spellings :</b> {hu}
@@ -117,7 +117,9 @@ async def msg(event):
 __help__ = """
 I will give information about a country
 
- ❍ /country <country name>*:* Gathering info about given country
+ ✯ /country <country name>*:* Gathering info about given country
+
+ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
 """
 
 __mod_name__ = "Cᴏᴜɴᴛʀʏ"
