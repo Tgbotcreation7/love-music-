@@ -66,5 +66,7 @@ __mod_name__ = "Pᴀsᴛᴇ​"
 __help__ = """
  Pastes the given file and shows you the result
 
- ❍ /paste *:* Reply to a text file
+ ✯ /paste *:* Reply to a text file
+ 
+ ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
  """
