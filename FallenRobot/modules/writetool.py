@@ -62,5 +62,5 @@ __help__ = """
 
  Writes the given text on white page with a pen 🖊
 
-❍ /write <text> *:* Writes the given text.
+✯ /write <text> *:* Writes the given text.
  """
