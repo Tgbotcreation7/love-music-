@@ -478,13 +478,15 @@ __help__ = """
 
 *ᴄᴏɴᴠᴇʀᴛs sɪᴍᴩʟᴇ ᴛᴇxᴛ ᴛᴏ ʙᴇᴀᴜᴛɪғᴜʟ ᴛᴇxᴛ ʙʏ ᴄʜᴀɴɢɪɴɢ ɪᴛ's ғᴏɴᴛ*
 
- ❍ /weebify *:* Change the text into weeb text.
- ❍ /bubble *:* Change the text into bubble text.
- ❍ /fbubble *:* Change the text into fbubble text.
- ❍ /square *:* Change the text into square text.
- ❍ /blue *:* Change the text into blue text.
- ❍ /latin *:* Change the text into latin text.
- ❍ /lined *:* Change the text into lined text.
+ ✯ /weebify *:* Change the text into weeb text.
+ ✯ /bubble *:* Change the text into bubble text.
+ ✯ /fbubble *:* Change the text into fbubble text.
+ ✯ /square *:* Change the text into square text.
+ ✯ /blue *:* Change the text into blue text.
+ ✯ /latin *:* Change the text into latin text.
+ ✯ /lined *:* Change the text into lined text.
+ 
+ ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
  """
 __mod_name__ = "Fᴏɴᴛ Eᴅɪᴛᴏʀ"
 
