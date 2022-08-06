@@ -74,7 +74,9 @@ __New couple of the day may be chosen at 12AM {tomorrow}__"""
 __help__ = """
 Choose couples in your chat
 
- ❍ /couple *:* Choose 2 users and send their name as couples in your chat.
+ ✯ /couple *:* Choose 2 users and send their name as couples in your chat.
+
+ᴘʟᴇᴀsᴇ sᴜᴘᴘᴏʀᴛ [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
 """
 
 __mod_name__ = "Cᴏᴜᴘʟᴇ​"
