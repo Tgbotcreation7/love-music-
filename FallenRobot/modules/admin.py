@@ -40,7 +40,7 @@ def set_sticker(update: Update, context: CallbackContext):
 
     if user_can_changeinfo(chat, user, context.bot.id) is False:
         return msg.reply_text(
-            "» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴄʜᴀɴɢᴇ ɢʀᴏᴜᴩ ɪɴғᴏ ʙᴀʙʏ !"
+            "» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ɢʀᴘ ᴄʜᴀɴɢᴇ ɪɴғᴏ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !"
         )
 
     if msg.reply_to_message:
@@ -71,7 +71,7 @@ def setchatpic(update: Update, context: CallbackContext):
     user = update.effective_user
 
     if user_can_changeinfo(chat, user, context.bot.id) is False:
-        msg.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴄʜᴀɴɢᴇ ɢʀᴏᴜᴩ ɪɴғᴏ ʙᴀʙʏ !")
+        msg.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ɢʀᴘ ᴄʜᴀɴɢᴇ ɪɴғᴏ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !")
         return
 
     if msg.reply_to_message:
@@ -108,7 +108,7 @@ def rmchatpic(update: Update, context: CallbackContext):
     user = update.effective_user
 
     if user_can_changeinfo(chat, user, context.bot.id) is False:
-        msg.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴄʜᴀɴɢᴇ ɢʀᴏᴜᴩ ɪɴғᴏ ʙᴀʙʏ !")
+        msg.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ɢʀᴘ ᴄʜᴀɴɢᴇ ɪɴғᴏ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !")
         return
     try:
         context.bot.delete_chat_photo(int(chat.id))
@@ -128,7 +128,7 @@ def set_desc(update: Update, context: CallbackContext):
 
     if user_can_changeinfo(chat, user, context.bot.id) is False:
         return msg.reply_text(
-            "» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴄʜᴀɴɢᴇ ɢʀᴏᴜᴩ ɪɴғᴏ ʙᴀʙʏ !"
+            " ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ɢʀᴘ ᴄʜᴀɴɢᴇ ɪɴғᴏ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !"
         )
 
     tesc = msg.text.split(None, 1)
@@ -157,7 +157,7 @@ def setchat_title(update: Update, context: CallbackContext):
     args = context.args
 
     if user_can_changeinfo(chat, user, context.bot.id) is False:
-        msg.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴄʜᴀɴɢᴇ ɢʀᴏᴜᴩ ɪɴғᴏ ʙᴀʙʏ !")
+        msg.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ɢʀᴘ ᴄʜᴀɴɢᴇ ɪɴғᴏ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !")
         return
 
     title = " ".join(args)
@@ -196,7 +196,7 @@ def promote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴀᴅᴅ ɴᴇᴡ ᴀᴅᴍɪɴs ʙᴀʙʏ !")
+        message.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ᴀᴅᴅ ᴀᴅᴍɪɴs ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !")
         return
 
     user_id = extract_user(message, args)
@@ -282,7 +282,7 @@ def lowpromote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴀᴅᴅ ɴᴇᴡ ᴀᴅᴍɪɴs ʙᴀʙʏ !")
+        message.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ᴀᴅᴅ ᴀᴅᴍɪɴ ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ !")
         return
 
     user_id = extract_user(message, args)
@@ -364,7 +364,7 @@ def fullpromote(update: Update, context: CallbackContext) -> str:
         not (promoter.can_promote_members or promoter.status == "creator")
         and user.id not in DRAGONS
     ):
-        message.reply_text("» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴀᴅᴅ ɴᴇᴡ ᴀᴅᴍɪɴs ʙᴀʙʏ !")
+        message.reply_text("» ᴛᴜᴍʜᴀʀᴇ ᴘᴀss ᴀᴅᴅ ᴀᴅᴍɪɴs ᴋᴀ ʀɪɢʜᴛs ɴᴏɪ ʜ ᴘʜᴇʟᴇ ʟᴇ ᴋᴇ ᴀᴀᴏ!")
         return
 
     user_id = extract_user(message, args)
@@ -996,6 +996,8 @@ __help__ = """
 » /setgpic*:* reply to an image to set as group photo
 » /setdesc*:* Set group description
 » /setsticker*:* Set group sticker
+
+sᴜᴘᴘᴏʀᴛ ʜᴇʀᴇ :- @sukunsupports
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc)
