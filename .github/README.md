@@ -1,11 +1,11 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 sᴜᴋᴜɴ ☯︎ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/sukunbots/sukunrobotmusic/blob/master/sukunrobotmusic/resources/fglitch.gif">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
