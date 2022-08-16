@@ -86,13 +86,13 @@ PM_START_TEXT = """
 *ʜᴇʏ* {}, 🥀
 
 *๏ ᴛʜɪs ɪs* {} !
-✯ ᴍᴀɪɴ ᴘʏᴀᴀʟɪ sɪ ᴄᴜᴛᴇ sɪ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ ʜᴜᴜ 🥺🥺
-✯ ᴍᴀɪɴ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴍᴇɴᴛ ᴅᴏɴᴏ ᴋᴀʀ sᴀᴋᴛɪ ʜᴜᴜ 🥺😝😜
+✯ ᴍᴀɪɴ ᴘʏᴀᴀʟᴀ sᴀ ᴄᴜᴛᴇ sᴀ ᴍᴜsɪᴄ ʀᴏʙᴏᴛ ʜᴜᴜ 🥺🥺
+✯ ᴍᴀɪɴ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴍᴇɴᴛ ᴅᴏɴᴏ ᴋᴀʀ sᴀᴋᴛᴀ ʜᴜᴜ 🥺😝😜
 ✯ ᴍᴀɪɴ ɪs ᴛᴇᴀᴍ ᴄʜᴇ ʜᴜᴜ 🙈:- [ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://t.me/sukunsupports)
-✯ sᴀᴀᴛʜ ᴍᴇ ʏᴇʜ ᴡᴀʟᴀ ᴍᴜsɪᴄ ʙᴏᴛ ʙʜɪ ᴜsᴇ ᴋᴀʟ sᴀᴋᴛᴇ ʜᴏ:- [Sᴜᴋᴜɴ ᴀᴜᴅɪᴏ ᴍᴜsɪᴄ](https://t.me/sukunaudiomusicbot)
+✯ ʀᴇᴘᴏ ɴᴏɪ ᴍᴀɴɢᴀ ɴᴏɪ ᴍɪʟᴇɢᴀ
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✯ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴀsᴋ/ʀᴇᴘᴏʀᴛ ᴀᴛ @sukunsupports .
-✯ ᴍᴇʟɪ ᴘʏᴀᴀʟɪ ᴏᴡɴᴇʀ ❤️:- [Sᴜᴋᴜɴ](https://t.me/Bhumi_ha_r)
+✯ ᴊᴀʟᴅɪ sᴇ ᴀᴅᴅ ᴋᴀʀᴏ 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 *✯ ɴɪᴄʜᴇ ʜᴇʟᴘ ᴘᴇ ᴄʟɪᴄᴋ ᴋᴀʟ ᴋᴇ ᴍᴀɴᴀɢᴍᴇɴᴛ ᴋᴇ ᴄᴏᴍᴍᴀɴᴅs ᴅᴇᴋʜ sᴀᴋᴛᴇ ʜᴏ .*
 *✯ Mᴜsɪᴄ ᴄᴏᴍᴍᴀɴᴅ ᴋᴇ ʟɪʏᴇ Mᴜsɪᴄ ᴘᴇ ᴄʟɪᴄᴋ ᴋᴀʟɴᴀ ᴏᴛᴇʏ ɴᴀ .*
@@ -235,8 +235,8 @@ def start(update: Update, context: CallbackContext):
 
         else:
             first_name = update.effective_user.first_name
-            update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAJYsmLWRvm70cE-mmxSNCovEf4v1ueJAAIcCAACbMK4VuL4EmZEkq8WKQQ"
+            update.effective_message.reply_text(
+                "[ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ᴜɴᴅᴇʀ ᴛᴇᴀᴍ sᴜᴋᴜɴ](https://telegra.ph/file/8836f2a396de04968bbe5.jpg)"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
