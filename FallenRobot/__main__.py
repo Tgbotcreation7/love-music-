@@ -113,7 +113,7 @@ buttons = [
         InlineKeyboardButton(text="😘 sᴜᴩᴩᴏʀᴛ 😘", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴍᴀɴᴀɢᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🎧 ᴍᴜsɪᴄ ᴄᴏᴍɴᴅs 🎧", callback_data="source_"),
     ]
 ]
@@ -130,7 +130,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = """ᴇʟʟᴏ ᴅᴏsᴛ 🥺❤️,
   ᴋᴀɪᴄʜᴇ ʜᴏ ᴀᴘᴘ ᴀᴀᴘᴋᴀ sᴡᴀᴀɢᴀᴛ ʜ ʏᴀʜᴀ ᴘᴇ 🥰
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴍᴀɴᴀɢᴇʀ](https://t.me/mujhse_dosti_karlo) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ](https://t.me/sukunsupports) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/mujhse_dosti_karlo) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ](https://t.me/sukunsupports) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -411,7 +411,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="🥀 ᴍᴀɴᴀɢᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"
+                            text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
                             text="🎧 ᴍᴜsɪᴄ ᴄᴍɴᴅs 🎧",
